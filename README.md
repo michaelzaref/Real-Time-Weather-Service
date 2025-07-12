@@ -14,19 +14,6 @@ A clean and flexible Laravel backend that fetches real-time and hourly weather f
 
 ---
 
-## 📁 Project Structure
-
-app/
-├── Http/
-│ └── Controllers/
-│ └── WeatherController.php
-├── Services/
-│ └── OpenMeteoService.php
-routes/
-└── api.php
-
-
----
 
 ## 🛠️ Installation
 
