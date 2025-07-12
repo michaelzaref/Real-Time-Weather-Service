@@ -20,7 +20,7 @@ A clean and flexible Laravel backend that fetches real-time and hourly weather f
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/laravel-weather-api.git
+git clone https://github.com/michaelzaref/Real-Time-Weather-Service.git
 cd laravel-weather-api
 2. **Install dependencies:
 composer install
