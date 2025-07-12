@@ -46,7 +46,7 @@ Response:
 📈 Hourly Forecast (Chart-Ready)
 Fetch hourly weather variables like temperature and humidity.
 
-GET /api/weather/chart?lat=30.0444&lon=31.2357&variables[]=temperature_2m&variables[]=relative_humidity_2m
+GET http://127.0.0.1:8000/api/weather/forecast?lat=30.0444&lon=31.2357
 Response:
 {
   "temperature_2m": {
